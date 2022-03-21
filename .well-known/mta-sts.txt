@@ -2,4 +2,5 @@ version: STSv1
 mode: none
 mx: *.openconsole.com
 mx: *.mx.cloudflare.net
+mx: smtp.gmail.com
 max_age: 604800
